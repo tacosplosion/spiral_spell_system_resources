@@ -1,0 +1,151 @@
+{
+    "version": "0.4.6",
+    "projects": {
+        "7caa1c6e-b576-79c8-e087-452c261a8392": {
+            "project_name": "fx_wild_slashes",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\fx_wild_slashes\\bone.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "12b7da61-2ca3-7849-a328-298a7c07de36": {
+            "project_name": "calamity",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\calamity\\9.json",
+                "assets\\animated_java\\models\\item\\calamity\\8.json",
+                "assets\\animated_java\\models\\item\\calamity\\7.json",
+                "assets\\animated_java\\models\\item\\calamity\\6.json",
+                "assets\\animated_java\\models\\item\\calamity\\5.json",
+                "assets\\animated_java\\models\\item\\calamity\\4.json",
+                "assets\\animated_java\\models\\item\\calamity\\3.json",
+                "assets\\animated_java\\models\\item\\calamity\\2.json",
+                "assets\\animated_java\\models\\item\\calamity\\1.json",
+                "assets\\animated_java\\models\\item\\calamity\\sword.json",
+                "assets\\animated_java\\textures\\item\\calamity\\calamity.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "14c0fdc4-8ad2-a6f3-f3bc-1be31ba14555": {
+            "project_name": "omni_slash",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\omni_slash\\sword.json",
+                "assets\\animated_java\\textures\\item\\omni_slash\\omni_slash.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "d05fed70-ad3d-178e-f114-6d20492f6821": {
+            "project_name": "haunted_blades",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\haunted_blades\\sword.json",
+                "assets\\animated_java\\textures\\item\\haunted_blades\\haunted_blades.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "58cbe7c7-8767-d04b-1880-9759981c1089": {
+            "project_name": "cyclone",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\cyclone\\bone3.json",
+                "assets\\animated_java\\models\\item\\cyclone\\bone2.json",
+                "assets\\animated_java\\models\\item\\cyclone\\bone4.json",
+                "assets\\animated_java\\models\\item\\cyclone\\bone.json",
+                "assets\\animated_java\\textures\\item\\cyclone\\cyclone.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "6cacfbd2-6ad9-e2c1-c8e0-29218e4ba5fd": {
+            "project_name": "tornado",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\tornado\\head.json",
+                "assets\\animated_java\\models\\item\\tornado\\mid1.json",
+                "assets\\animated_java\\models\\item\\tornado\\mid2.json",
+                "assets\\animated_java\\models\\item\\tornado\\mid3.json",
+                "assets\\animated_java\\models\\item\\tornado\\upper_ring.json",
+                "assets\\animated_java\\models\\item\\tornado\\lower_ring.json",
+                "assets\\animated_java\\models\\item\\tornado\\mid4.json",
+                "assets\\animated_java\\models\\item\\tornado\\bottom.json",
+                "assets\\animated_java\\textures\\item\\tornado\\tornado.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "af29ff0c-17e9-2c51-941d-6a927052e947": {
+            "project_name": "nimbus_cloud",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\nimbus_cloud\\bone.json",
+                "assets\\animated_java\\textures\\item\\nimbus_cloud\\nimbus_cloud.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "4d5b1d39-b76b-a25a-b8ff-af35669d6fd4": {
+            "project_name": "musical_number",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\musical_number\\1.json",
+                "assets\\animated_java\\models\\item\\musical_number\\2.json",
+                "assets\\animated_java\\models\\item\\musical_number\\3.json",
+                "assets\\animated_java\\models\\item\\musical_number\\4.json",
+                "assets\\animated_java\\models\\item\\musical_number\\5.json",
+                "assets\\animated_java\\models\\item\\musical_number\\6.json",
+                "assets\\animated_java\\models\\item\\musical_number\\7.json",
+                "assets\\animated_java\\models\\item\\musical_number\\8.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "undefined": {
+            "project_name": "iron_fist",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\iron_fist\\right.json",
+                "assets\\animated_java\\models\\item\\iron_fist\\left.json",
+                "assets\\animated_java\\textures\\item\\iron_fist\\iron_fist.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "53c86e77-b038-ec5e-6c4c-82851de453f5": {
+            "project_name": "iron_maiden",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\iron_maiden\\back.json",
+                "assets\\animated_java\\models\\item\\iron_maiden\\front.json",
+                "assets\\animated_java\\models\\item\\iron_maiden\\chains.json",
+                "assets\\animated_java\\textures\\item\\iron_maiden\\iron_maiden.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "b545892a-cacd-f7b8-d71d-a5058268b3c1": {
+            "project_name": "steel_spike",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\steel_spike\\bone.json",
+                "assets\\animated_java\\textures\\item\\steel_spike\\steel_spike.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "272e37f6-53ac-9df2-ae76-e2f1d254735a": {
+            "project_name": "entangle",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\entangle\\5.json",
+                "assets\\animated_java\\models\\item\\entangle\\4.json",
+                "assets\\animated_java\\models\\item\\entangle\\3.json",
+                "assets\\animated_java\\models\\item\\entangle\\2.json",
+                "assets\\animated_java\\models\\item\\entangle\\1.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "8c0aba8b-2212-39be-5248-5395fb847259": {
+            "project_name": "living_root",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\living_root\\6.json",
+                "assets\\animated_java\\models\\item\\living_root\\5.json",
+                "assets\\animated_java\\models\\item\\living_root\\4.json",
+                "assets\\animated_java\\models\\item\\living_root\\3.json",
+                "assets\\animated_java\\models\\item\\living_root\\2.json",
+                "assets\\animated_java\\models\\item\\living_root\\1.json",
+                "assets\\animated_java\\textures\\item\\living_root\\living_root.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "9247517d-cdcb-01b5-03ab-1031cd45b6f2": {
+            "project_name": "distance_scshp",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\distance_scshp\\ship.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        }
+    }
+}

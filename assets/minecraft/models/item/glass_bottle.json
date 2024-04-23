@@ -1,0 +1,7 @@
+{"parent":"minecraft:item/generated","textures":
+{"layer0": "item/glass_bottle"},"overrides":
+
+[
+    {"predicate":{"custom_model_data":1},"model":"item/food/alcohol/dragonbloodale"},
+    {"predicate":{"custom_model_data":2},"model":"item/potions/amnesia_potion"}
+]}

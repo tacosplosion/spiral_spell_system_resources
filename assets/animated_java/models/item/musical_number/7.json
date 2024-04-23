@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"6": "minecraft:item/spell_effects/note7"
+	},
+	"elements": [
+		{
+			"from": [
+				0,
+				0,
+				8
+			],
+			"to": [
+				16,
+				16,
+				8
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					0,
+					3
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"texture": "#6"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#6"
+				},
+				"south": {
+					"uv": [
+						16,
+						0,
+						0,
+						16
+					],
+					"texture": "#6"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#6"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#6"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#6"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

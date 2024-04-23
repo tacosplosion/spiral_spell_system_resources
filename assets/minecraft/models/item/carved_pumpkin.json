@@ -1,0 +1,13 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/carved_pumpkin"
+	},
+	
+	"overrides": 
+	[
+		{"predicate": {"custom_model_data":0}, "model": "block/carved_pumpkin"},
+		{"predicate": {"custom_model_data":1}, "model": "item/helmets/gem_of_corruption"},
+		{"predicate": {"custom_model_data":2}, "model": "item/helmets/dog_collar"}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/cookie"
+	},
+	
+	"overrides": [
+		{"predicate":{"custom_model_data":1},"model": "item/food/cookies/candycorn"},
+		{"predicate":{"custom_model_data":2},"model": "item/food/cookies/popcorn_ball"},
+		{"predicate":{"custom_model_data":3},"model": "item/food/cookies/bownie"},
+		{"predicate":{"custom_model_data":4},"model": "item/food/cookies/cookie_chocolate"},
+		{"predicate":{"custom_model_data":5},"model": "item/food/cookies/cookie_double_chocolate"},
+		{"predicate":{"custom_model_data":6},"model": "item/food/cookies/cookie_oatmeal"},
+		{"predicate":{"custom_model_data":7},"model": "item/food/cookies/cookie_peanut"},
+		{"predicate":{"custom_model_data":8},"model": "item/food/cookies/cookie_redvelvet"},
+		{"predicate":{"custom_model_data":9},"model": "item/food/cookies/cream_cookie_apricot"},
+		{"predicate":{"custom_model_data":10},"model": "item/food/cookies/cream_cookie_blueberry"},
+		{"predicate":{"custom_model_data":11},"model": "item/food/cookies/cream_cookie_chocolate"},
+		{"predicate":{"custom_model_data":12},"model": "item/food/cookies/cream_cookie_fudge"},
+		{"predicate":{"custom_model_data":13},"model": "item/food/cookies/cream_cookie_raspberry"},
+		{"predicate":{"custom_model_data":14},"model": "item/food/cookies/cream_cookie_vanilla"},
+		{"predicate":{"custom_model_data":15},"model": "item/food/cookies/creeper_cookie"},
+		{"predicate":{"custom_model_data":16},"model": "item/food/cookies/meringue"},
+		{"predicate":{"custom_model_data":17},"model": "item/food/cookies/raspberry_cheesecake_cookie"},
+		{"predicate":{"custom_model_data":18},"model": "item/food/cookies/sugarcookie"},
+		{"predicate":{"custom_model_data":19},"model": "item/food/cookies/wafer_chocolate"},
+		{"predicate":{"custom_model_data":20},"model": "item/food/cookies/wafer_strawberry"},
+		{"predicate":{"custom_model_data":21},"model": "item/food/cookies/wafer_vanilla"}
+	]
+}

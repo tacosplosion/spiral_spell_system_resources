@@ -1,0 +1,138 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "mccosmetics:item/tmomh/sword_on_hip"
+	},
+	"elements": [
+		{
+			"name": "sword",
+			"from": [3, 16, 3],
+			"to": [4, 18, 14],
+			"rotation": {"angle": 45, "axis": "x", "origin": [-0.5, 11, 0]},
+			"faces": {
+				"north": {"uv": [5.5, 5.5, 6, 6.5], "texture": "#1"},
+				"east": {"uv": [0, 5.5, 5.5, 6.5], "texture": "#1"},
+				"south": {"uv": [11.5, 5.5, 12, 6.5], "texture": "#1"},
+				"west": {"uv": [6, 5.5, 11.5, 6.5], "texture": "#1"},
+				"up": {"uv": [6, 5.5, 5.5, 0], "texture": "#1"},
+				"down": {"uv": [6.5, 0, 6, 5.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "sword",
+			"from": [3, 15, 1],
+			"to": [4, 19, 2],
+			"rotation": {"angle": 45, "axis": "x", "origin": [-0.5, 11, 0]},
+			"faces": {
+				"north": {"uv": [0.5, 2.5, 1, 4.5], "texture": "#1"},
+				"east": {"uv": [0, 2.5, 0.5, 4.5], "texture": "#1"},
+				"south": {"uv": [1.5, 2.5, 2, 4.5], "texture": "#1"},
+				"west": {"uv": [1, 2.5, 1.5, 4.5], "texture": "#1"},
+				"up": {"uv": [1, 2.5, 0.5, 2], "texture": "#1"},
+				"down": {"uv": [1.5, 2, 1, 2.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "sword",
+			"from": [3, 16.5, -2],
+			"to": [4, 17.5, 1],
+			"rotation": {"angle": 45, "axis": "x", "origin": [-0.5, 11, 0]},
+			"faces": {
+				"north": {"uv": [1.5, 1.5, 2, 2], "texture": "#1"},
+				"east": {"uv": [0, 1.5, 1.5, 2], "texture": "#1"},
+				"south": {"uv": [3.5, 1.5, 4, 2], "texture": "#1"},
+				"west": {"uv": [2, 1.5, 3.5, 2], "texture": "#1"},
+				"up": {"uv": [2, 1.5, 1.5, 0], "texture": "#1"},
+				"down": {"uv": [2.5, 0, 2, 1.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "sword",
+			"from": [2.8, 16.3, -3.2],
+			"to": [4.2, 17.7, -1.8],
+			"rotation": {"angle": 45, "axis": "x", "origin": [-0.5, 11, 0]},
+			"faces": {
+				"north": {"uv": [4, 2, 4.5, 2.5], "texture": "#1"},
+				"east": {"uv": [3.5, 2, 4, 2.5], "texture": "#1"},
+				"south": {"uv": [5, 2, 5.5, 2.5], "texture": "#1"},
+				"west": {"uv": [4.5, 2, 5, 2.5], "texture": "#1"},
+				"up": {"uv": [4.5, 2, 4, 1.5], "texture": "#1"},
+				"down": {"uv": [5, 1.5, 4.5, 2], "texture": "#1"}
+			}
+		},
+		{
+			"name": "sword",
+			"from": [2.7, 16.2, 0.7],
+			"to": [4.3, 17.8, 2.3],
+			"rotation": {"angle": 45, "axis": "x", "origin": [-0.5, 11, 0]},
+			"faces": {
+				"north": {"uv": [2.5, 4, 3, 4.5], "texture": "#1"},
+				"east": {"uv": [2, 4, 2.5, 4.5], "texture": "#1"},
+				"south": {"uv": [3.5, 4, 4, 4.5], "texture": "#1"},
+				"west": {"uv": [3, 4, 3.5, 4.5], "texture": "#1"},
+				"up": {"uv": [3, 4, 2.5, 3.5], "texture": "#1"},
+				"down": {"uv": [3.5, 3.5, 3, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "sword",
+			"from": [2.8, 15.8, 1.8],
+			"to": [4.2, 18.2, 3.2],
+			"rotation": {"angle": 45, "axis": "x", "origin": [-0.5, 11, 0]},
+			"faces": {
+				"north": {"uv": [2.5, 2.5, 3, 3.5], "texture": "#1"},
+				"east": {"uv": [2, 2.5, 2.5, 3.5], "texture": "#1"},
+				"south": {"uv": [3.5, 2.5, 4, 3.5], "texture": "#1"},
+				"west": {"uv": [3, 2.5, 3.5, 3.5], "texture": "#1"},
+				"up": {"uv": [3, 2.5, 2.5, 2], "texture": "#1"},
+				"down": {"uv": [3.5, 2, 3, 2.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "sword",
+			"from": [3.2, 16.2, 13.95],
+			"to": [3.8, 17.8, 14.55],
+			"rotation": {"angle": 45, "axis": "x", "origin": [-0.5, 11, 0]},
+			"faces": {
+				"north": {"uv": [3, 0.5, 3.5, 1.5], "texture": "#1"},
+				"east": {"uv": [2.5, 0.5, 3, 1.5], "texture": "#1"},
+				"south": {"uv": [4, 0.5, 4.5, 1.5], "texture": "#1"},
+				"west": {"uv": [3.5, 0.5, 4, 1.5], "texture": "#1"},
+				"up": {"uv": [3.5, 0.5, 3, 0], "texture": "#1"},
+				"down": {"uv": [4, 0, 3.5, 0.5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [129.5, 0, 0],
+			"translation": [0, -3, -37.5]
+		},
+		"gui": {
+			"rotation": [-180, 53.5, -180],
+			"translation": [-2.5, -3.25, 0]
+		},
+		"head": {
+			"translation": [0, -80, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "BODY",
+			"origin": [0, 24, 0],
+			"color": 0,
+			"nbt": "{}",
+			"children": [
+				{
+					"name": "sword",
+					"origin": [-3.5, 13, -1],
+					"color": 0,
+					"nbt": "{}",
+					"children": [0, 1, 2, 3, 4, 5, 6]
+				}
+			]
+		}
+	]
+}

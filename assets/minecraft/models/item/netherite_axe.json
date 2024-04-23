@@ -1,0 +1,12 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/netherite_axe"},"overrides":[
+    {"predicate":{"custom_model_data":1}, "model": "item/weapons/cains_axe/cainsaxe"},
+	{"predicate":{"custom_model_data":2}, "model": "item/weapons/haliberd/haliberd"},
+	{"predicate":{"custom_model_data":3}, "model": "item/weapons/vint_axe/vint_axe"},
+    {"predicate":{"custom_model_data":4}, "model": "item/weapons/cains_axe_v2/cains_axe_v2"},
+    {"predicate":{"custom_model_data":10000},"model":"myitems:ia_auto_gen/fel_iron_axe"},
+    {"predicate":{"custom_model_data":10001},"model":"myitems:ia_auto_gen/umbra_gem_axe"},
+    {"predicate":{"custom_model_data":10002},"model":"myitems:ia_auto_gen/void_metal_axe"},
+    {"predicate":{"custom_model_data":10004},"model":"myitems:ia_auto_gen/chrono_crystal_axe"},
+    {"predicate":{"custom_model_data":10005},"model":"myitems:ia_auto_gen/astrolitium_axe"},
+    {"predicate":{"custom_model_data":10006},"model":"item/netherite_axe"}
+    ]}

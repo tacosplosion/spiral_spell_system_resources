@@ -1,0 +1,22 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/brick"
+    },
+	"overrides": [	
+		{"predicate": {"custom_model_data":2500}, "model": "item/rpg_mount_model/icon_dragon_desert"},
+		{"predicate": {"custom_model_data":2501}, "model": "item/rpg_mount_model/icon_dragon_glacial"},
+		{"predicate": {"custom_model_data":2502}, "model": "item/rpg_mount_model/icon_dragon_nether"},
+		{"predicate": {"custom_model_data":2503}, "model": "item/rpg_mount_model/icon_dragon_sculk"},
+		{"predicate": {"custom_model_data":2504}, "model": "item/rpg_mount_model/icon_lizard_aqua"},
+		{"predicate": {"custom_model_data":2505}, "model": "item/rpg_mount_model/icon_lizard_lava"},
+		{"predicate": {"custom_model_data":2506}, "model": "item/rpg_mount_model/icon_manticore_aether"},
+		{"predicate": {"custom_model_data":2507}, "model": "item/rpg_mount_model/icon_manticore_dusk"},
+		{"predicate": {"custom_model_data":2508}, "model": "item/rpg_mount_model/icon_manticore_soul"},
+		{"predicate": {"custom_model_data":2509}, "model": "item/rpg_mount_model/icon_manticore_venom"},
+		{"predicate": {"custom_model_data":2510}, "model": "item/rpg_mount_model/icon_panda"},
+		{"predicate": {"custom_model_data":2511}, "model": "item/rpg_mount_model/icon_sabertooth_arctic"},
+		{"predicate": {"custom_model_data":2512}, "model": "item/rpg_mount_model/icon_sabertooth_midnight"},
+		{"predicate": {"custom_model_data":2513}, "model": "item/rpg_mount_model/icon_sabertooth_savanna"}
+    ]
+}

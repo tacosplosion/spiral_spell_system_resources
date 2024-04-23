@@ -1,0 +1,92 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "item/weapons/kuroba/kuroba_sheath",
+		"particle": "item/weapons/kuroba/kuroba"
+	},
+	"elements": [
+		{
+			"from": [7, 2, 7.5],
+			"to": [9, 29, 8.5],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 13.5], "texture": "#1"},
+				"east": {"uv": [2, 0, 2.5, 13.5], "texture": "#1"},
+				"south": {"uv": [1, 0, 2, 13.5], "texture": "#1"},
+				"west": {"uv": [2.5, 0, 3, 13.5], "texture": "#1"},
+				"up": {"uv": [4, 0.5, 3, 0], "texture": "#1"},
+				"down": {"uv": [4, 0.5, 3, 1], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.25, 29, 7.5],
+			"to": [8.75, 29.5, 8.5],
+			"faces": {
+				"north": {"uv": [3, 3, 3.75, 3.25], "texture": "#1"},
+				"east": {"uv": [3.5, 2.5, 4, 2.75], "texture": "#1"},
+				"south": {"uv": [3.5, 2, 4.25, 2.25], "texture": "#1"},
+				"west": {"uv": [3, 3.5, 3.5, 3.75], "texture": "#1"},
+				"up": {"uv": [3.75, 1.5, 3, 1], "texture": "#1"},
+				"down": {"uv": [3.75, 1.5, 3, 2], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.5, 29.5, 7.5],
+			"to": [8.5, 29.75, 8.5],
+			"faces": {
+				"north": {"uv": [3.5, 3.5, 4, 3.625], "texture": "#1"},
+				"east": {"uv": [4, 0, 4.5, 0.125], "texture": "#1"},
+				"south": {"uv": [4, 0.5, 4.5, 0.625], "texture": "#1"},
+				"west": {"uv": [4, 1, 4.5, 1.125], "texture": "#1"},
+				"up": {"uv": [3.5, 2.5, 3, 2], "texture": "#1"},
+				"down": {"uv": [3.5, 2.5, 3, 3], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-39.69, -87.46, 137.34],
+			"translation": [0, 1.75, 1.25],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [46.56, 87.46, 137.34],
+			"translation": [0, 1, 1.25],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [-146.41, -76.27, 59.34],
+			"translation": [4.75, -5.25, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [18.74, 64.06, 141.71],
+			"translation": [6.5, -6, -2.75]
+		},
+		"ground": {
+			"rotation": [-70.67, -19.07, 41.49],
+			"translation": [2.25, -2.5, 2.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, 0, -135],
+			"translation": [-1.5, 1.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"rotation": [0, 0, -131.75],
+			"translation": [-2.75, -12.75, 4.5]
+		},
+		"fixed": {
+			"rotation": [0, 0, 90],
+			"translation": [3.5, 0, -1.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "sheath",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

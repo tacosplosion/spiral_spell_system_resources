@@ -1,0 +1,15 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/bread"
+	},
+	
+	"overrides": 
+	[
+		{"predicate": {"custom_model_data":1}, "model": "item/items/edible_crystal"},
+		{"predicate": {"custom_model_data":2}, "model": "item/food/breadloaf"},
+		{"predicate": {"custom_model_data":3}, "model": "item/food/hamandcheesesandwich"},
+		{"predicate": {"custom_model_data":4}, "model": "item/food/subsandwich"},
+		{"predicate": {"custom_model_data":5}, "model": "item/food/shagletlegs"}
+	]
+}

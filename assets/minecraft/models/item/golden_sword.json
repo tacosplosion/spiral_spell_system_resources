@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/golden_sword"
+	},
+	
+	"overrides": 
+	[
+		{"predicate": {"custom_model_data":1}, "model": "item/weapons/heaven_sword/heaven_sword"},
+		{"predicate":{"custom_model_data":46},"model": "item/weapons/ellie_rapier/ellie_rapier"}
+	]
+}

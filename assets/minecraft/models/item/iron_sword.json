@@ -1,0 +1,17 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_sword"
+	},
+	
+	"overrides": 
+	[
+		{
+			"predicate": 
+				{
+				"custom_model_data":1
+				}, 
+				"model": "item/weapons/kitchen_knife/kitchen_knife"
+		}
+	]
+}

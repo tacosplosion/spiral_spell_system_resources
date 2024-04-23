@@ -1,0 +1,15 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/coal"
+    },	
+	"overrides": [	
+		{"predicate": {"custom_model_data":2113}, "model": "ninja_samurai_model/icon_blood_slash"},
+		{"predicate": {"custom_model_data":2114}, "model": "ninja_samurai_model/icon_death_charge"},
+		{"predicate": {"custom_model_data":2115}, "model": "ninja_samurai_model/icon_flow_state"},
+		{"predicate": {"custom_model_data":2116}, "model": "ninja_samurai_model/icon_forbidden_art"},
+		{"predicate": {"custom_model_data":2117}, "model": "ninja_samurai_model/icon_laceration"},
+		{"predicate": {"custom_model_data":2118}, "model": "ninja_samurai_model/icon_piercing_shuriken"},
+		{"predicate": {"custom_model_data":2119}, "model": "ninja_samurai_model/icon_smoke_bomb"}
+	]
+}

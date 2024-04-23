@@ -1,0 +1,20 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+	    "layer0": "item/written_book"
+	},
+	
+	"overrides": 
+	[
+		{"predicate": {"custom_model_data":2}, "model": "item/books/fire_spell_book"},
+		{"predicate": {"custom_model_data":7}, "model": "item/books/water_spell_book"},
+		{"predicate": {"custom_model_data":12}, "model": "item/books/earth_spell_book"},
+		{"predicate": {"custom_model_data":17}, "model": "item/books/air_spell_book"},
+		{"predicate": {"custom_model_data":22}, "model": "item/books/nature_spell_book"},
+		{"predicate": {"custom_model_data":27}, "model": "item/books/darkness_spell_book"},
+		{"predicate": {"custom_model_data":32}, "model": "item/books/light_spell_book"},
+		{"predicate": {"custom_model_data":37}, "model": "item/books/space_spell_book"},
+		{"predicate": {"custom_model_data":42}, "model": "item/books/blade_spell_book"},
+		{"predicate":{"custom_model_data":100},"model": "item/items/newspaper"}
+	]
+}

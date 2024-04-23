@@ -1,0 +1,29 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/blaze_rod"
+	},
+	"overrides": [
+    
+		{"predicate": {"custom_model_data":95500}, "model": "item/pig_spawn_egg/drakonins/nocsy_drakonin_egg"},
+		{"predicate": {"custom_model_data":95501}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_scepter"},
+		
+		{"predicate": {"custom_model_data":96401}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_baby_head1"},
+		{"predicate": {"custom_model_data":96402}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_baby_head2"},
+		{"predicate": {"custom_model_data":96403}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_baby_head3"},
+		{"predicate": {"custom_model_data":96404}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_baby_head4"},
+		{"predicate": {"custom_model_data":96405}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_baby_head5"},
+		{"predicate": {"custom_model_data":96406}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_baby_head6"},
+		{"predicate": {"custom_model_data":96407}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_baby_head7"},
+		{"predicate": {"custom_model_data":96408}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_baby_head8"},
+		
+		{"predicate": {"custom_model_data":96501}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_head1"},
+		{"predicate": {"custom_model_data":96502}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_head2"},
+		{"predicate": {"custom_model_data":96503}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_head3"},
+		{"predicate": {"custom_model_data":96504}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_head4"},
+		{"predicate": {"custom_model_data":96505}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_head5"},
+		{"predicate": {"custom_model_data":96506}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_head6"},
+		{"predicate": {"custom_model_data":96507}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_head7"},
+		{"predicate": {"custom_model_data":96508}, "model": "item/blaze_rod/drakonins/nocsy_drakonin_head8"}
+	]
+}

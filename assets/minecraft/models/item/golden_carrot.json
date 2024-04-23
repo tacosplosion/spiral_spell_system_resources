@@ -1,0 +1,17 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/golden_carrot"
+	},
+	
+	"overrides": 
+	[
+		{
+			"predicate": 
+				{
+				"custom_model_data":1
+				}, 
+				"model": "item/food/shagletlegs"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/!!!ITEMNAME!!!"
+	},
+	
+	"overrides": 
+	[
+		{
+			"predicate": 
+				{
+				"custom_model_data":1
+				}, 
+				"model": "item/weapons/item_folder/ItemName"
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "mccosmetics:item/tmomh/slasherstaticears",
+		"particle": "mccosmetics:item/tmomh/slasherstaticears"
+	},
+	"elements": [
+		{
+			"from": [4.41771, 5, 3.66716],
+			"to": [4.41771, 10, 10.66716],
+			"rotation": {"angle": -45, "axis": "y", "origin": [4.41386, 6.5, 6.07868]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 4], "texture": "#1"},
+				"east": {"uv": [0, 7, 7, 12], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 4], "texture": "#1"},
+				"west": {"uv": [7, 1, 0, 6], "texture": "#1"},
+				"up": {"uv": [0, 7, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 7], "texture": "#1"}
+			}
+		},
+		{
+			"from": [11.55729, 5, 3.66716],
+			"to": [11.55729, 10, 10.66716],
+			"rotation": {"angle": 45, "axis": "y", "origin": [11.56114, 6.5, 6.07868]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 4], "texture": "#1"},
+				"east": {"uv": [0, 1, 7, 6], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 4], "texture": "#1"},
+				"west": {"uv": [7, 7, 0, 12], "texture": "#1"},
+				"up": {"uv": [0, 7, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 7], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [0, -180, 0]
+		},
+		"head": {
+			"translation": [0.25, 3.75, 6.25],
+			"scale": [1.88, 1.88, 1.88]
+		}
+	}
+}
