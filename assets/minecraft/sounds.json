@@ -1,4 +1,5 @@
 {
+	"spiral.sounds.vulpis_moon": {"sounds": [{"name":"snd/vulpismoon", "stream": true}]},
 	"spiral.sounds.satyr_flute": {"sounds": [{"name":"snd/satyr_flute", "stream": true}]},
 	"spiral.sounds.clock": {"sounds": [{"name":"snd/clock", "stream": true}]},
 	"spiral.sounds.gong": {"sounds": [{"name":"snd/gong", "stream": true}]},
