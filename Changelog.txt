@@ -2,4 +2,10 @@
 ================================================================================================
  - Uploaded the resource pack to allow other people to edit it.
 ================================================================================================
-test edit - codex
+
+4/26/2024 - Codex
+================================================================================================
+ Implimented item fixes in the /spiral_spell_system_resources/assets/myitems/models/ia_auto_gen folder (all items)
+ Updated item textures in /spiral_spell_system_resources/assets/myitems/textures/item folder
+    advanced_alloy, black_pearl, black_ring, blue_pearl, blue_ring, corvish_feather, green_pearl, green_ring, red_pearl, red_ring, restored_ring, shadowy_blob, strange_fungus, violet_pearl, violet_ring, vulpis_fluf, white_pearl, white_ring, yellow_pearl, yellow_ring
+================================================================================================
