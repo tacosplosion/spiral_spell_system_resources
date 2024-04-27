@@ -123,6 +123,7 @@
 		{"predicate": {"custom_model_data":542}, "model": "item/items/teacher_badge_taz"},
 		{"predicate": {"custom_model_data":543}, "model": "item/items/teacher_badge_vera"},
 		{"predicate": {"custom_model_data":544}, "model": "item/items/library_card"},
+		{"predicate": {"custom_model_data":545}, "model": "item/items/return_crystal"},
 
 
 		{"predicate": {"custom_model_data":1000}, "model": "item/spell_effects/lava_plume"},
