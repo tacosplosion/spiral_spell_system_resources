@@ -72,6 +72,10 @@
 		{"predicate": {"custom_model_data":64}, "model": "item/items/ahzuo_lantern"},
 		{"predicate": {"custom_model_data":65}, "model": "item/spell_casters/microphone"},
 		{"predicate": {"custom_model_data":66}, "model": "item/spell_casters/dr_note_caster"},
+		{"predicate": {"custom_model_data":67}, "model": "item/spell_casters/butterfly_caster"},
+		{"predicate": {"custom_model_data":68}, "model": "item/spell_casters/purple_tea_caster"},
+		{"predicate": {"custom_model_data":69}, "model": "item/spell_casters/bellflower_caster"},
+		{"predicate": {"custom_model_data":70}, "model": "item/spell_casters/ghostlotles_caster"},
 
 
 		{"predicate": {"custom_model_data":500}, "model": "item/items/lesser_knowledge_shard"},
@@ -114,6 +118,11 @@
 		{"predicate": {"custom_model_data":537}, "model": "item/items/manuscript_c"},
 		{"predicate": {"custom_model_data":538}, "model": "item/items/manuscript_d"},
 		{"predicate": {"custom_model_data":539}, "model": "item/items/ability_scroll"},
+		{"predicate": {"custom_model_data":540}, "model": "item/items/teacher_badge_anie"},
+		{"predicate": {"custom_model_data":541}, "model": "item/items/teacher_badge_jager"},
+		{"predicate": {"custom_model_data":542}, "model": "item/items/teacher_badge_taz"},
+		{"predicate": {"custom_model_data":543}, "model": "item/items/teacher_badge_vera"},
+		{"predicate": {"custom_model_data":544}, "model": "item/items/library_card"},
 
 
 		{"predicate": {"custom_model_data":1000}, "model": "item/spell_effects/lava_plume"},
