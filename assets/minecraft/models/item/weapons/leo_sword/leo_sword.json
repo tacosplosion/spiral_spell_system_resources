@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"6": "item/weapons/kuroba/leo_sword/leo_sword"
+		"6": "item/weapons/leo_sword/leo_sword"
 	},
 	"elements": [
 		{
