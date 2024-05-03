@@ -75,7 +75,8 @@
 		{"predicate": {"custom_model_data":67}, "model": "item/spell_casters/butterfly_caster"},
 		{"predicate": {"custom_model_data":68}, "model": "item/spell_casters/purple_tea_caster"},
 		{"predicate": {"custom_model_data":69}, "model": "item/spell_casters/bellflower_caster"},
-		{"predicate": {"custom_model_data":70}, "model": "item/spell_casters/gostlotles_staff"},
+		{"predicate": {"custom_model_data":70}, "model": "item/spell_casters/ghostlotl_staff"},
+		{"predicate": {"custom_model_data":71}, "model": "item/spell_casters/riot_caster"},
 
 
 		{"predicate": {"custom_model_data":500}, "model": "item/items/lesser_knowledge_shard"},
