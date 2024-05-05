@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/spell_casters/gostlotl_staff",
-		"particle": "item/spell_casters/gostlotl_staff"
+		"0": "item/spell_casters/ghostlotl_staff",
+		"particle": "item/spell_casters/ghostlotl_staff"
 	},
 	"elements": [
 		{
