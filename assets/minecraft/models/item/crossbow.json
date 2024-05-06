@@ -95,6 +95,13 @@
 {"predicate": {"custom_model_data":7, "pulling": 1, "pull":  0.58}, "model": "item/weapons/double_barrel_shot_gun/double_barrel_shot_gun_charged"},
 {"predicate": {"custom_model_data":7, "pulling": 1, "pull": 1.0}, "model": "item/weapons/double_barrel_shot_gun/double_barrel_shot_gun_charged"},
 {"predicate": {"custom_model_data":7, "charged": 1}, "model": "item/weapons/double_barrel_shot_gun/double_barrel_shot_gun_charged"},
-{"predicate": {"custom_model_data":7, "charged": 1, "firework": 1}, "model": "item/weapons/double_barrel_shot_gun/double_barrel_shot_gun_charged"}
+{"predicate": {"custom_model_data":7, "charged": 1, "firework": 1}, "model": "item/weapons/double_barrel_shot_gun/double_barrel_shot_gun_charged"},
+
+{"predicate": {"custom_model_data":8}, "model": "item/weapons/star_gear_crossbow/star_gear_crossbow_idle"},
+{"predicate": {"custom_model_data":8,"pulling": 1}, "model": "item/weapons/star_gear_crossbow/star_gear_crossbow_charged"},
+{"predicate": {"custom_model_data":8, "pulling": 1, "pull":  0.58}, "model": "item/weapons/star_gear_crossbow/star_gear_crossbow_charged"},
+{"predicate": {"custom_model_data":8, "pulling": 1, "pull": 1.0}, "model": "item/weapons/star_gear_crossbow/star_gear_crossbow_charged"},
+{"predicate": {"custom_model_data":8, "charged": 1}, "model": "item/weapons/star_gear_crossbow/star_gear_crossbow_charged"},
+{"predicate": {"custom_model_data":8, "charged": 1, "firework": 1}, "model": "item/weapons/star_gear_crossbow/star_gear_crossbow_charged"}
 ]
 }

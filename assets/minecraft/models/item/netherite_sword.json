@@ -52,6 +52,9 @@
     {"predicate":{"custom_model_data":51},"model": "item/weapons/ira_draconium/ira_draconium"},
     {"predicate":{"custom_model_data":52},"model": "item/weapons/meg_glaive/meg_glaive"},
     {"predicate":{"custom_model_data":53},"model": "item/weapons/normal_katana/katana"},
+    {"predicate":{"custom_model_data":54},"model": "item/weapons/leo_sword/leo_sword"},
+    {"predicate":{"custom_model_data":55},"model": "item/weapons/ben_sword/ben_sword"},
+    {"predicate":{"custom_model_data":56},"model": "item/weapons/ghostlotl_sword/ghostlotl_sword"},
     
     {"predicate":{"custom_model_data":10000},"model":"myitems:ia_auto_gen/fel_iron_sword"},
     {"predicate":{"custom_model_data":10001},"model":"myitems:ia_auto_gen/umbra_gem_sword"},

@@ -128,7 +128,10 @@
       {"predicate":{"custom_model_data":1623},"model":"mccosmetics:cosmetics/tmomh/hawthorne_fox_tail"},
       {"predicate":{"custom_model_data":1624},"model":"mccosmetics:cosmetics/tmomh/anie_fox_tail"},
       {"predicate":{"custom_model_data":1625},"model":"mccosmetics:cosmetics/tmomh/fox_tail"},
-      {"predicate":{"custom_model_data":1626},"model":"mccosmetics:cosmetics/tmomh/cyn_tail"}
+      {"predicate":{"custom_model_data":1626},"model":"mccosmetics:cosmetics/tmomh/cyn_tail"},
+      {"predicate":{"custom_model_data":1627},"model":"mccosmetics:cosmetics/tmomh/shoulder_rat"},
+      {"predicate":{"custom_model_data":1628},"model":"mccosmetics:cosmetics/tmomh/fluffy_fox_ears"},
+      {"predicate":{"custom_model_data":1629},"model":"mccosmetics:cosmetics/tmomh/ghostlotl_hat"}
       
       
 
